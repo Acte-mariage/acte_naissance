@@ -1,0 +1,64 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  header {
+    text-align: center;
+  }
+  
+  header h1, header p {
+    margin: 5px 0;
+  }
+  
+  section {
+    margin: 20px;
+  }
+  
+  section p {
+    margin: 5px 0;
+    font-weight: bold;
+  }
+  
+  .epoux, .epouse {
+    margin-bottom: 20px;
+  }
+  
+  .epoux p, .epouse p {
+    margin: 5px 0;
+  }
+  
+  .english {
+    font-style: italic;
+    font-weight: normal;
+  }
+
+  img{
+    position: relative;
+    right: 250px;
+  }
+  .devise-french{
+    position: relative;
+    right: 240px;
+    bottom: 150px;
+    display: inline-block;
+    font-weight: bold;
+  }
+  .devise-english{
+    position: relative;
+    left: 450px;
+    bottom: 150px;
+    display: inline-block;
+    font-weight: bold;
+  }
+
+  .buttons{
+    height: 80px;
+    width: 300px;
+    text-align: center;
+    background-color: brown;
+  }
+  .legal{
+    font-weight:normal;
+    font-style: italic;
+    font-size: 14;
+  }
